@@ -112,4 +112,4 @@ Feel free to open an issue or reach out to the maintainers if you have any quest
 
 ---
 
-Thank you for contributing to CntxtJV! 🎉
+Thank you for contributing to CntxtJS! 🎉
