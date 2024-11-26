@@ -39,7 +39,7 @@ When prompted, enter the path to your JavaScript/TypeScript codebase. The tool w
 
 ## 💡 Example Usage with LLMs
 
-The LLM can now provide detailed insights about your codebase's auth implementation, understanding the relationships between components, functions, and files!
+The LLM can now provide detailed insights about your codebase's implementations, understanding the relationships between components, functions, and files!
 After generating your knowledge graph, you can upload it as a single file to give LLMs deep context about your codebase. Here's a powerful example prompt:
 
 ```Prompt Example```
