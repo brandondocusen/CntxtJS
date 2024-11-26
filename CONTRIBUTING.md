@@ -1,6 +1,6 @@
 # Contributing to CntxtJS
 
-First off, thank you for considering contributing to CntxtJS! It's people like you that make CntxtJV such a great tool.
+First off, thank you for considering contributing to CntxtJS! It's people like you that make CntxtJS such a great tool.
 
 ## 🤝 Code of Conduct
 
