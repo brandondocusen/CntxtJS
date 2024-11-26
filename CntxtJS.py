@@ -828,7 +828,7 @@ if __name__ == "__main__":
         if not os.path.exists(codebase_dir):
             raise ValueError(f"Directory does not exist: {codebase_dir}")
 
-        output_file = "code_knowledge_graph.json"
+        output_file = "js_code_knowledge_graph.json"
 
         # Create and analyze the codebase.
         print("\nAnalyzing codebase...")
