@@ -76,7 +76,7 @@ Using the knowledge graph's function analysis, explain how the application handl
 ## 📊 Output Format
 
 The tool generates two main outputs:
-1. A JSON knowledge graph (`code_knowledge_graph.json`)
+1. A JSON knowledge graph (`js_code_knowledge_graph.json`)
 2. Optional visualization using matplotlib
 
 The knowledge graph includes:
