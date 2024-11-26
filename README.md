@@ -23,7 +23,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CntxtJS.git
+git clone https://github.com/brandondocusen/CntxtJS.git
 
 # Navigate to the directory
 cd CntxtJS
