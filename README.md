@@ -3,7 +3,9 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> 🤯 **75% Token Reduction In Context Window!** Supercharge your LLM's understanding of JavaScript/TypeScript codebases. CntxtJS generates comprehensive knowledge graphs that help LLMs navigate and comprehend your code structure with ease.
+> 🤯 **75% Token Reduction In Context Window!** Supercharge your LLM's understanding of JavaScript/TypeScript codebases. CntxtJS generates comprehensive knowledge graphs that help LLMs navigate and comprehend your code structure with ease. 
+
+It's like handing your LLM the cliff notes instead of a novel.
 
 ## ✨ Features
 
