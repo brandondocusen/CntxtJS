@@ -15,6 +15,7 @@
 -  Optimized prompts: Provides structured context for better LLM responses.
 -  Streamlines collaboration: Helps LLMs explain and document code easily.
 
+
 > Supercharge your LLM's understanding of JavaScript/TypeScript codebases. CntxtJS generates comprehensive knowledge graphs that help LLMs navigate and comprehend your code structure with ease. 
 
 It's like handing your LLM the cliff notes instead of a novel.
