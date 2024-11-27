@@ -734,7 +734,8 @@ class JSCodeKnowledgeGraph:
             },
             "function_params": self.function_params,
             "function_returns": self.function_returns,
-            "class_methods": self.class_methods,
+            # Convert sets to lists that are JSON serializable:
+            "class_methods": {k: list(v) for k, v in self.class_methods.items()},  
         }
 
         with open(output_path, "w", encoding="utf-8") as f:
