@@ -24,7 +24,7 @@ Before creating bug reports, please check the issue list as you might find out t
 * Describe the behavior you observed after following the steps
 * Explain which behavior you expected to see instead and why
 * Include screenshots if relevant
-* Include your environment details (OS, Java version, etc.)
+* Include your environment details (OS, Javasctipt version, etc.)
 
 ### Suggesting Enhancements
 
