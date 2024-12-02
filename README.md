@@ -20,9 +20,9 @@
 
 It's like handing your LLM the cliff notes instead of a novel.
 
-## **Active Development Notice**
+## **Active Enhancement Notice**
 
-- CntxtJS is under **active development at high velocity** as we continuously improve the project. Thank you for your contributions! 🙌
+- CntxtJS is **actively being enhanced at high velocity with improvements every day**. Thank you for your contributions! 🙌
 
 ## ✨ Features
 
