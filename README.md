@@ -20,6 +20,10 @@
 
 It's like handing your LLM the cliff notes instead of a novel.
 
+## **Active Development Notice**
+
+- CntxtJS is under **active development at high velocity** as we continuously improve the project. Thank you for your contributions! 🙌
+
 ## ✨ Features
 
 - 🔍 Deep analysis of JavaScript/TypeScript codebases
